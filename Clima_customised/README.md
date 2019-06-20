@@ -7,4 +7,4 @@
 - The page backgrounds are created in Inkscape.
   
 ## Screenshots
-<img src="screenshots\Clima_Day.png" width = 250> <img src="Screenshots\Clima_Night.png" width = 250>
+<img src="screenshots\clima_day.png" width = 250> <img src="screenshots\clima_night.png" width = 250>
