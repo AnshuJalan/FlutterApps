@@ -1,6 +1,6 @@
-# Crypto Land ??
+# Crypto Land ₿
 
-## Description ₿
+## Description
 
 - This app shows the current market value of 3 cryptocurrencies namely Bitcoin, Ethereum and Litecoin in 20 international currencies. 
 - It also shows the change in price over the last month.
