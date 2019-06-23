@@ -8,4 +8,7 @@
 - The page backgrounds are created in Inkscape.
   
 ## Screenshots
+
+Below are two screenshots showing the weather in Kolkata (at day-time) and Los Angeles (at night-time).
+
 <img src="screenshots\clima_day.png" width = 250> <img src="screenshots\clima_night.png" width = 250>
