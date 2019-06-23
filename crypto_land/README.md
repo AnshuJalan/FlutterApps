@@ -9,3 +9,4 @@
 
 ## Screenshots
 
+<img src="screenshots\bitcoin.png" width = 250> <img src="screenshots\ethereum.png" width = 250>
