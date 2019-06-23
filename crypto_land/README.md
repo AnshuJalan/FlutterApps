@@ -9,4 +9,6 @@
 
 ## Screenshots
 
+Below are two screenshots showing the current market value of Bitcoin in USD and Ethereum in INR.
+
 <img src="screenshots\bitcoin.png" width = 250> <img src="screenshots\ethereum.png" width = 250>
