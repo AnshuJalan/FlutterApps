@@ -6,7 +6,7 @@
 - Ask a question and click on the 8-ball.
 - A quirky answer will show up at the center of the ball.
 
-##Finished app
+## Finished app
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
 
